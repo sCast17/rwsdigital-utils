@@ -41,15 +41,8 @@
 </details>
 
 
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+                          
 
 ### Built With
 
@@ -58,8 +51,6 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 Insert text here.
@@ -75,16 +66,12 @@ Insert text here.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- CONTACT -->
 ## Contact
 
 Salvatore Castaldo - salvatore.cast17@gmail.com
