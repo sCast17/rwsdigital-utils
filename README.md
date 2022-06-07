@@ -6,10 +6,10 @@
     <img src="https://i0.wp.com/www.rwsdigital.com/wp-content/uploads/2018/09/logo-copyright.png?fit=708%2C177&ssl=1"" alt="Logo" width="500" height="130">
   </a>
 
-  <h3 align="center">RWS Digital Utils</h3>
+  <h3 align="center">RWSdigital Utils</h3>
 
   <p align="center">
-    Utils to enhance software development in RWS digital!
+    Utils to enhance software development in RWSdigital!
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
