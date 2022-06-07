@@ -1,17 +1,6 @@
 # rwsdigital_utils
 
 <div id="top"></div>
-[Contributors][contributors-url]
-[Forks][forks-url]
-[Stargazers][stars-url]
-[Issues][issues-url]
-[MIT License][license-url]
-[LinkedIn][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/sCast17/rwsdigital_utils">
     <img src="https://i0.wp.com/www.rwsdigital.com/wp-content/uploads/2018/09/logo-copyright.png?fit=708%2C177&ssl=1"" alt="Logo" width="500" height="130">
