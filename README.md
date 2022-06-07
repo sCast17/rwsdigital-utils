@@ -76,6 +76,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Salvatore Castaldo - salvatore.cast17@gmail.com
 
-Project Link: ["https://github.com/sCast17/rwsdigital_utils"](https://github.com/sCast17/rwsdigital_utils)
+Project Link: [https://github.com/sCast17/rwsdigital_utils](https://github.com/sCast17/rwsdigital_utils)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
