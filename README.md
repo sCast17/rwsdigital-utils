@@ -11,15 +11,6 @@
 
   <p align="center">
     Utils to enhance software development in RWSdigital!
-    <br />
-    <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/">View Demo</a>
-    ·
-    <a href="https://github.com/">Report Bug</a>
-    ·
-    <a href="https://github.com/">Request Feature</a> -->
   </p>
 </div>
 
@@ -64,18 +55,14 @@ Insert text here.
    ```
 2. Enjoy
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contact
 
 Salvatore Castaldo - salvatore.cast17@gmail.com
 
 Project Link: [https://github.com/sCast17/rwsdigital_utils](https://github.com/sCast17/rwsdigital_utils)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
