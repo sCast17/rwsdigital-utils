@@ -2,7 +2,7 @@
 
 <div id="top"></div>
 <div align="center">
-  <a href="https://github.com/sCast17/rwsdigital_utils">
+  <a href="https://github.com/sCast17/rwsdigital-utils">
     <img src="https://i0.wp.com/www.rwsdigital.com/wp-content/uploads/2018/09/logo-copyright.png?fit=708%2C177&ssl=1"" 
          alt="Logo" width="500" height="130" align="center">
   </a>
@@ -63,4 +63,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Salvatore Castaldo - salvatore.cast17@gmail.com
 
-Project Link: [https://github.com/sCast17/rwsdigital_utils](https://github.com/sCast17/rwsdigital_utils)
+Project Link: [https://github.com/sCast17/rwsdigital-utils](https://github.com/sCast17/rwsdigital-utils)
