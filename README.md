@@ -2,7 +2,7 @@
 
 <div id="top"></div>
 
-[![Contributors]][contributors-url]
+[Contributors][contributors-url]
 [![Forks]][forks-url]
 [![Stargazers]][stars-url]
 [![Issues]][issues-url]
