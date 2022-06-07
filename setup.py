@@ -9,7 +9,7 @@ long_description = (here / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="rwsdigital-utils",
-    version="2022.6.7.6",
+    version="2022.6.7.7",
     description="Odoo Development Utils by RWS Digital",
     long_description=long_description,
     long_description_content_type="text/markdown",
