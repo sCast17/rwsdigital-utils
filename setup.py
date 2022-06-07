@@ -9,7 +9,7 @@ long_description = (here / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="rwsdigital-utils",
-    version="2022.6.7.8",
+    version="2022.6.7.9",
     description="Odoo Development Utils by RWS Digital",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -17,7 +17,7 @@ setup(
     author="Salvatore Castaldo",
     author_email = "salvatore.cast17@gmail.com",
     license="MIT License",
-    url = "https://github.com/sCast17/rwsdigital_utils",
+    url = "https://github.com/sCast17/rwsdigital-utils",
     classifiers = [
     	"Development Status :: 3 - Alpha",
     	"Intended Audience :: Developers",
