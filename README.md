@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sCast17/rwsdigital_utils">
-    <img src="https://i0.wp.com/www.rwsdigital.com/wp-content/uploads/2018/09/logo-copyright.png?fit=708%2C177&ssl=1"" alt="Logo" width="80" height="80">
+    <img src="https://i0.wp.com/www.rwsdigital.com/wp-content/uploads/2018/09/logo-copyright.png?fit=708%2C177&ssl=1"" alt="Logo" width="200" height="100">
   </a>
 
   <h3 align="center">RWS Digital Utils</h3>
