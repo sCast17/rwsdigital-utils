@@ -39,8 +39,6 @@
 
 * [Python](https://www.python.org/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 ## Getting Started
 
