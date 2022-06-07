@@ -76,19 +76,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Salvatore Castaldo - salvatore.cast17@gmail.com
 
-Project Link: ["https://github.com/sCast17/rwsdigital_utils"]("https://github.com/sCast17/rwsdigital_utils")
+Project Link: ["https://github.com/sCast17/rwsdigital_utils"](https://github.com/sCast17/rwsdigital_utils)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-url]: https://github.com/sCast17/rwsdigital_utils/graphs/contributors
-[forks-url]: https://github.com/sCast17/rwsdigital_utils/network/members
-[stars-url]: https://github.com/sCast17/rwsdigital_utils/stargazers
-[issues-url]: https://github.com/sCast17/rwsdigital_utils/issues
-[license-url]: https://github.com/sCast17/rwsdigital_utils/blob/master/LICENSE
-[linkedin-url]: https://www.linkedin.com/in/salvatore-castaldo-a9b69218a
-
