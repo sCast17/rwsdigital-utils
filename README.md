@@ -2,14 +2,6 @@
 
 <div id="top"></div>
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -22,8 +14,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/sCast17/rwsdigital_utils">
+    <img src="https://i0.wp.com/www.rwsdigital.com/wp-content/uploads/2018/09/logo-copyright.png?fit=708%2C177&ssl=1"" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">RWS Digital Utils</h3>
@@ -95,39 +87,21 @@
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-Example:
-
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Install via pip
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   pip install rwsdigital-utils
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+2. Enjoy
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -136,9 +110,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Salvatore Castaldo - salvatore.cast17@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: ["https://github.com/sCast17/rwsdigital_utils"]("https://github.com/sCast17/rwsdigital_utils")
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -156,7 +130,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/sCast17/rwsdigital_utils/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/sCast17/rwsdigital_utils/blob/master/LICENSE.txt
+[license-url]: https://github.com/sCast17/rwsdigital_utils/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/salvatore-castaldo-a9b69218a
 [product-screenshot]: images/screenshot.png
