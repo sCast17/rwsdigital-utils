@@ -15,13 +15,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/sCast17/rwsdigital_utils">
-    <img src="https://i0.wp.com/www.rwsdigital.com/wp-content/uploads/2018/09/logo-copyright.png?fit=708%2C177&ssl=1"" alt="Logo" width="80" height="80">
+    <img src="https://i0.wp.com/www.rwsdigital.com/wp-content/uploads/2018/09/logo-copyright.png?fit=708%2C177&ssl=1"" alt="Logo" width="500" height="130">
   </a>
 
   <h3 align="center">RWS Digital Utils</h3>
 
   <p align="center">
-    Utils to enhance software development in RWS Digital!
+    Utils to enhance software development in RWS digital!
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -46,19 +46,8 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -84,8 +73,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Insert text here.
 
 
 ### Installation
