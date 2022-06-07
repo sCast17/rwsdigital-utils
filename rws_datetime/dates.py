@@ -1,4 +1,5 @@
 from datetime import datetime
+from datetime import timedelta
 
 # input: stringa contenente una data in qualsiasi formato
 # output: oggetto datetime.datetime con la data corrispondente

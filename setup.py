@@ -4,11 +4,9 @@ import os
 import setuptools
 
 setuptools.setup(
-    name="rwsdigital_utils",
-    version="0.0.11",
+    name="rwsdigital-utils",
+    version="2022.6.7.5",
     description="Odoo Development Utils by RWS Digital",
-    long_description="Utils for Odoo development including dates and datetimes manipulation and more",
-    long_description_content_type="text/x-rst",
     readme="README.md",
     author="Salvatore Castaldo",
     author_email = "salvatore@rwsdigital.com",
