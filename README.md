@@ -1,4 +1,4 @@
-# rwsdigital_utils
+# rwsdigital-utils
 
 <div id="top"></div>
 <div align="center">
