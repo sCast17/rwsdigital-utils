@@ -42,7 +42,8 @@ def str_to_date(date_string):
 def last_day_of_month(month):
     if len(month) == 1:
         month = '0' + month
-    str_date = '01/' + month + '/2000'
+    year = str(datetime.now().year)
+    str_date = '01/' + month + '/' + year
     tmp_date = str_to_date(str_date)
     next_month = tmp_date.replace(day=28) + timedelta(days=4)
     return next_month - timedelta(days=next_month.day)
